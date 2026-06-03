@@ -50,9 +50,11 @@ Python | Pandas | Matplotlib | Seaborn
 
 ## 项目结构
 
+```
 melbourne-housing-analysis/
 ├── melbourne_housing_analysis.ipynb  # 完整分析代码
 ├── melb_data.csv                     # 原始数据集
 ├── heatmap.png                       # 特征相关性热力图
 ├── suburb_price.png                  # 区域房价对比图
 └── price_trend.png                   # 月度价格趋势图
+```
